@@ -1,0 +1,17 @@
+module Traffic (s0 , s1 resilt )
+
+input s0 , s1 ;
+
+output resilt ; 
+
+assign resilt = s0 & s1 ; 
+
+
+
+
+
+
+endmodule
+
+
+
